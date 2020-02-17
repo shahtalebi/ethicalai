@@ -2,4 +2,7 @@
 title: "Welcome to EAI"
 ---
 
-Hello, Website!
+## Hello, Website!
+
+![The concpet map of our reading group.](conceptmap.png)
+
