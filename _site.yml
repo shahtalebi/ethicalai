@@ -1,7 +1,7 @@
-name: "my-website"
+name: "Ethical AI"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Ethical AI"
   type: inverse
   left:
     - text: "Home"
