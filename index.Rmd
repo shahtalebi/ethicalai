@@ -3,6 +3,6 @@ title: "Welcome to EAI"
 ---
 
 ## Hello, Website!
-
+<center>
 ![The concpet map of our reading group.](conceptmap.png)
-
+<\center>

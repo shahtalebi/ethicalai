@@ -53,9 +53,19 @@ navbar:
           href: TH5-law.html
     - text: "Events"
       href: events.html
+    - text: "Extrnal Resources"
+      href: external.html
     - text: "Who we are"
       href: about.html
       
   right:
     - text: "Subscribe" 
       href: https://forms.gle/hxdLLgSK8bpNxtqRA
+
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css

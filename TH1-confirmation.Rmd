@@ -6,6 +6,8 @@ title: "Confirmation Bias and Algorithms"
 
 In this theme, we will investigate the ......
 
+***
+
 ## Disassembling Platforms, Reassembling Sociality
 
 *Van Dijck, José. "Disassembling Platforms, Reassembling Sociality." _The Culture of Connectivity: A Critical History of Social Media_ (2013): 24-43*
@@ -20,6 +22,7 @@ Van Dijk starts this chapter by briefly presenting the coevolution of the music 
 ### Layer 1: Platforms as technocultural constructs
 #### Element 1: Technology
 The author is interested in the sociocultural aspect of a platform’s different technological components, since the very architecture of softwares and web platforms is the result social dynamics and norms that got encoded in the structure. “Data” encompass individual and collective properties, like a name, a phone number, derivative products, like buying suggestions on Amazon. Protocols define the frame of conversations between different actors about privacy and subversion. In turn, default features regulate users’ behavior on those platforms.
+
 > “The confrontation between implicit usage and explicit use embodies part of a negotiation process between platform owners and users to control the conditions for information exchange; such struggle also bares disputed norms and values.” (p.35)
 
 #### Element 2: Usage-users
@@ -34,10 +37,12 @@ A platform’s content is shaped in constant negotiation between the various int
 
 #### Element 4: Ownership
 van Dijk defines ownership models as to who owns the platform and places different models on a spectrum that goes from totally for-profit, investor-owned platforms (Facebook) to totally nonprofit and nonmarket ones. Now, however, there are a lot of partnerships to share data and integrate each other’s functions between platforms.
+
 > “[...] even as little as ten years ago, the coding of social actions into proprietary algorithms, let alone the branding and patenting of these processes, would have been unthinkable.” (p.37)
 
 #### Element 5: Gouvernance
 The author defines gouvernance as “how, and through what mechanisms, communication and data traffic are managed.” (p.38). The main gouvernance issues on social media platforms are inscribed in end-user license agreement (EULA) and terms of services (ToS). However, as van Dijk notes, most users do not read them and the law is not optimal for this realm, so there are alot of grey areas that lead to user discontent or problematic practices.
+
 > “Facebook’s privacy policy, for one thing, is known to be more complicated and longer than the U.S. Constitution. Even without reading the rules, though, Facebook users encounter changes in gouvernance through altered interfaces, usually without formal notice from the platform’s owner [...]” (p.38)
 
 #### Element 6: Business Model
