@@ -7,23 +7,55 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
-    - text: "More"
-      icon: fa-gear
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Readings"
+      href: readings.html
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page-a.html
-        - text: "Page B"
-          href: page-b.html
+        - text: "Theme 1: Internet and social media"
+        - text: "Introduction"
+          href: TH1-intro.html
+        - text: "Confirmation bias and algorithms"
+          href: TH1-confirmation.html
+        - text: "Cybersecurity, content moderation and privacy"
+          href: TH1-cybersecurity.html
         - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
-          href: page-c.html
-        - text: "Page D"
-          href: page-d.html
+        - text: "Theme 2: Data sicence"
+        - text: "Data mining and pattern recognition"
+          href: TH2-datascience.html
+        - text: "Statistics and data validity"
+          href: TH2-statistics.html
+        - text: "Criminal justice and discrimination"
+          href: TH2-criminal.html
+        - text: "---------"
+        - text: "Theme 3: Human-machine symbiosis"
+        - text: "Medical uses of AI"
+          href: TH3-medical.html
+        - text: "Transhumanism and self-hacking"
+          href: TH3-transhuman.html
+        - text: "Cyborgic ecosystems"
+          href: TH3-cyborg.html
+        - text: "---------"
+        - text: "Theme 4: Robots and autonomous AI"
+        - text: "Robotization and value assignment"
+          href: TH4-robotization.html
+        - text: "Singularity, personhood and rights"
+          href: TH4-singularity.html
+        - text: "Human-AI relationships"
+          href: TH4-humanai.html
+        - text: "---------"
+        - text: "Theme 5: Social effects of AI"
+        - text: "Inequalities, discrimination and racism"
+          href: TH5-inequalities.html
+        - text: "Morality and decision-making"
+          href: TH5-morality.html
+        - text: "Law and policy-making"
+          href: TH5-law.html
+    - text: "Events"
+      href: events.html
+    - text: "Who we are"
+      href: about.html
+      
   right:
-    - icon: fa-question fa-lg
-      href: https://example.com
+    - text: "Subscribe" 
+      href: https://forms.gle/hxdLLgSK8bpNxtqRA
