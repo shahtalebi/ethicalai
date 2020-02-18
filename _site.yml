@@ -1,7 +1,6 @@
 name: "Ethical AI"
 output_dir: "."
 navbar:
-  title: "Ethical AI"
   type: inverse
   left:
     - text: "Home"
