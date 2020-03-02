@@ -1,5 +1,13 @@
 ---
-title: "About This Website"
+title: "About us"
 ---
 
-More about this website.
+### Hi there, 
+We are a group of students at Concordia University, Montreal, Canada, who are interested in studying the field of **Artificial Intelligence (AI)** from a non-computer-scientist point of view. We want to know what are the effects of AI on our **society** and how can we integrate **ethical** way of thinking in AI-based services. What should **computer-scientists** know and what should **policy makers** know? What is our **responsibility** towards AI? Shall we consider AI as **citizen** of our society and shall we treat them we the same set of **regulations** that we already have or we should rethink the concepts of **consciousness**, **humanity** and **self-awareness**?
+
+*We are going to read and read and read to **solidify our thoughts** for each of the above questions.*
+
+This reading group is founded by two Concordia students, Veronique and Soroosh, and we would love to have anyone who is interested in this topic on board. Veronique is studying anthropology and Soroosh is student in computer science. 
+
+
+

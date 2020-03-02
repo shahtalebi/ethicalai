@@ -1,8 +1,9 @@
 ---
-title: "Welcome to EAI"
+ title: "Welcome to Ethical AI reading group!"
 ---
 
-## Hello, Website!
+### 
+
 <center>
 ![The concpet map of our reading group.](conceptmap.png)
 <\center>
