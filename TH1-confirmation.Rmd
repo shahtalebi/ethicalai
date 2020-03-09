@@ -1,10 +1,8 @@
 ---
-title: "Confirmation Bias and Algorithms"
+title: "Theme 1: Internet and Social Media"
 ---
 
-# Theme 1: Internet and social media
-
-In this theme, we will investigate the ......
+# Confirmation Bias and Algorithms
 
 ***
 
@@ -12,7 +10,7 @@ In this theme, we will investigate the ......
 
 *Van Dijck, José. "Disassembling Platforms, Reassembling Sociality." _The Culture of Connectivity: A Critical History of Social Media_ (2013): 24-43*
 
-**Reflections by:** Véronique Hamel and Alexandre Pouliot. 
+**Reflections by:** Véronique Hamel and Alexandre Pouliot
 
 ### Introduction
 Van Dijk starts this chapter by briefly presenting the coevolution of the music platform ITunes and the music industry on economic and legal grounds. He introduces the idea that, to better understand the reciprocal influence of microsystems on their surrounding ecosystems, it is useful to distinguish between the use of a given technology by users and the socio-economic structure behind this technology. The goal of this dual analysis is then to recognize common norms and mechanisms through the interoperability of different platforms.

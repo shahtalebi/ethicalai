@@ -1,0 +1,38 @@
+---
+title: "Theme 1: Internet and Social Media"
+---
+
+# Introduction
+
+In this theme ....
+
+
+***
+
+## The Ethics of Aritificial Intelligence 
+*Bostrom, Nick, and Eliezer Yudkowsky. "The ethics of artificial intelligence." The Cambridge handbook of artificial intelligence 1 (2014): 316-334.*
+
+**Reflections by:** Soroosh Shahtalebi
+
+### Introduction
+
+This article is part of the “Cambridge Handbook of Artificial Intelligence” and has investigated the parallel rise we expect to see in ethical issues while machines become thinking machines. This article is shaped in five sections; The first section talks about the issues that may arise by AI in near future, the second section discusses the challenges in ensuring that AI operates safely, the third section tries to show how we can check if AI has any moral status or not, the fourth section talks about how basic differences between AI and humans should be taken into account when they are assessed from ethical point of view, and section five discusses the situation when AI surpasses human-level intelligence.
+
+### Ethics in Machine Learning and Other Domain‐Specific AI Algorithms
+
+Imagine the case that a bank is using AI for assessing and prioritizing the application forms for loan. After a while, it becomes apparent that AI system is not fair and it is biased towards some certain types of applications, meaning that the AI is discriminating between applications based on unwanted clues. What do we learn from this example?
+
+The first requirement of the AI systems should be their “transparency to inspection”. In brief, we should be able to find out why the AI is coming up with a certain answer and what are the mathematical drives behind it. Some techniques such as Decision trees and Bayesian networks are transparent to programmer, unlike the ones based on neural networks or evolutionary techniques.
+
+>“It will become increasingly important to develop AI algorithms that are not just powerful and scalable, but also transparent to inspection—to name one of many socially important properties.”(p.2)
+
+In addition to transparency, an AI system needs to be “predictable to those they govern”. The author uses the principle of stare decisis as an analogy in law that binds judges to follow past precedent whenever possible. It is discussed that an engineer also needs to follow this principle, so that the legal system can investigate in the advance technological fields.
+
+>“The job of the legal system is not necessarily to optimize society, but to provide a predictable environment within which citizens can optimize their own lives.” (p.2)
+
+Another criterion discussed in this article is the importance of robustness in AI algorithms against manipulation. Robustness against manipulation is highly discussed and respected in information security domain, and the same urge needs to be followed in machine learning domain.
+
+The last social criterion discussed in this article is who should take the blame when an AI system fails to deliver its expected task? In case of the bank example, shall we blame the bank for the performance of their AI system? If not, who is responsible for the biased decisions made by the AI system?
+
+
+> “Responsibility, transparency, auditability, incorruptibility, predictability, and a tendency to not make innocent victims scream with helpless frustration: all criteria that apply to humans performing social functions; all criteria that must be considered in an algorithm intended to replace human judgment of social functions; all criteria that may not appear in a journal of machine learning considering how an algorithm scales up to more computers. This list of criteria is by no means exhaustive, but it serves as a small sample of what an increasingly computerized society should be thinking about.” (p.3)
