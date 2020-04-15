@@ -1,9 +1,11 @@
 ---
  title: "Welcome to Ethical AI reading group!"
 ---
-
-### 
-
 <center>
-![The concpet map of our reading group.](conceptmap.png)
+![The concpet map of our reading group.](frontpage final.jpg)
 <\center>
+
+## Our mission:
+
+## Our vision:
+
