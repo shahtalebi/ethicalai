@@ -1,10 +1,8 @@
 ---
 title: "Our Reading Schedule"
 ---
+In the first phase of our reading group, we try to touch on the items outlined in the following concept map. If you are interested to contribute to this reading group, you can find the [link to our suggested readings](https://docs.google.com/spreadsheets/d/1-4fWa2iJq3akLqBrp7KlOlEz5ewvzFwQc0fsGp0aUuQ/edit?usp=sharing) and select the one that better fits your interests. Once you put your name in the reading list (in the "Volunteer" column), you let others know that you will be working on this resource and you commit yourself to share your reflection pieces on that resource. Your reflections will be verified by the organizers and then will be published on this website by your name.
 
-<center>
-![The concpet map of our reading group.](conceptmap.png)
-<\center>
+![](conceptmap.png)
 
-## Here is our reading schedule:
 
