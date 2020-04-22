@@ -6,7 +6,7 @@ Here, we keep track of our future and previous events, so that you can plan for 
 
 
 ### Next meeting:  
-Friday, April 24th, 4 pm  
+Friday, April 24th, 5 pm  
 Topic: Confirmation bias and algorithms  
 Join on [Zoom](https://concordia-ca.zoom.us/j/91300135925?pwd=eDhkZllOeXlBcjFtM3FQeFhzdmFUQT09)  
 *password to join the meeting will be shared on Slack channel*
