@@ -1,0 +1,19 @@
+---
+title: "External resources"
+---
+
+Here, we try to populate a list of similar initiatives within or outside of Canada. If you know any that is not listed here, please join our Slack channel and introduce it to the organizers. We'd love to have a complete list for those who are interested. 
+
+Here is the list:
+
+- [Future of Life Institute](https://futureoflife.org/)
+- [L'observatoire international sur les impacts sociétaux de l'IA et du numérique:](https://observatoire-ia.ulaval.ca/)
+- [Montreal AI Ethics Institute:](https://montrealethics.ai/)
+- [Déclaration de Montréal IA responsable:](https://www.declarationmontreal-iaresponsable.com/)
+- [AI for Social Good (a Google initiative):](https://ai.google/social-good/)
+- [Algorithm Watch:](https://algorithmwatch.org/en/)
+- [The Algorithm - Newsletter by MIT:](https://forms.technologyreview.com/the-algorithm/)
+- [Speculative Life Cluster (interdisciplinary research group on future and technology at Concordia):](https://speculativelife.com/)
+- [MIlieux Institute (Concordia Graduate Research Institute):](https://milieux.concordia.ca/)
+
+
