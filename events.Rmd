@@ -6,8 +6,8 @@ Here, we keep track of our future and previous events, so that you can plan for 
 
 
 ### Next meeting:  
-Friday, April 24th, 5 pm  
-Topic: Confirmation bias and algorithms  
+Friday, May 1st, 2020, 1 pm (EST)  
+Topic: cybersecurity, content moderation and privacy
 Join on [Zoom](https://concordia-ca.zoom.us/j/91300135925?pwd=eDhkZllOeXlBcjFtM3FQeFhzdmFUQT09)  
 *password to join the meeting will be shared on Slack channel*
 
@@ -28,3 +28,7 @@ Join on [Zoom](https://concordia-ca.zoom.us/j/91300135925?pwd=eDhkZllOeXlBcjFtM3
 - enjoy the other members' presentations and take part in the discussion!
 
 
+### Previous meetings:
+
+- Friday, April 24th, 2020, 5 pm (EST)  
+Topic: Confirmation bias and algorithms  
