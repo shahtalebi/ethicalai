@@ -1,0 +1,61 @@
+---
+title: "Theme 1: Internet and Social Media"
+---
+
+# Cybersecurity, Content Moderation and Privacy
+
+***
+
+## **Controlling the Conversation: The Ethics of Social Platforms and Content Moderation, by Priyanjana Bengani**
+
+*Bengani, Priyanjana, Mike Ananny, and Emily J. Bell. "Controlling the Conversation: The Ethics of Social Platforms and Content Moderation." (2018).*
+
+**Reflections by:** Véronique Hamel
+
+### Introduction:
+
+Ananny sets the tone for the rest of the conference paper by exploring how journalism and its relation with audiences is changing through its entanglement with social media platforms. He highlights twelve key issues that were raised in the conference:
+
+1.  Moderation should enable diverse political and ethical positions on the public domain;
+    
+2.  We need to pay more attention to the working conditions of human moderators;
+    
+3.  There should be an openness to a diversity of editorial choices and modes of expressions;
+    
+4.  Content moderation models should be integrated into platforms’ business models;
+    
+5.  Journalists need to rethink their interactions with their audience;
+    
+6.  Policy-makers need to find new ways to deal with the issues of scale and sovereignty raised by transnational platforms;
+    
+7.  AI content moderation tools should be designed to facilitate human moderators’ work;
+    
+8.  Moderators should critically question what are the moderation guidelines themselves;
+    
+9.  Moderation efforts should not be restricted by western values;
+    
+10.  Content moderation must be considered as public infrastructure rather than as a private corporate affair.
+    
+11.  Researchers should investigate content moderation questions from a diversity of perspectives and domains of expertise;
+    
+12.  Policy-makers, researchers, developers and civil society should unite to face the challenges posed by new forms of content moderation.
+    
+> “Today, the audience lives not only in journalists’ attitudes or small-scale media like letters, call-in shows, and interviews. Contemporary journalists also meet audiences through complex social media infrastructures, third-party algorithms, and content moderation policies.” (p.4)
+
+### Ethics of Moderation
+
+In this section, Bengani introduces the notion of ethics and reminds us that any ethical question requires a context to be discussed. However, issues relating to content moderation on digital platforms that are used internationally are hard to situation within a firm context. As much as it would not be fair to anchor those ethical issues in US-centric values, it is likewise difficult to imagine all the diverse contexts which would need to be considered. Bengani also specifies that, although journalism ethics and content moderation ethics are not the same to start with, publishers today have no other choice than to integrate them together as influential social media platforms have de facto set the standards for online content moderation.
+
+> “Instead, journalism ethics requires a reboot, with the focus on invention, i.e. constructing a new set of principles; open-ended discussion; plurality of perspectives within the journalism and ethics communities [...] and thinking about the global landscape to transcend borders and impact civilisation and culture beyond the United States.” (p.8)
+
+### Moderation Tools
+
+According to Bengani, moderation tools should be designed with a constant concern for democracy, transparency, ethics and compassion. There should be serious discussions about what content exactly we want these tools to moderate, why and how. The public likewise needs to be educated as to how these tools would work and to interact ethically with users if their content is moderated or taken down. Finally, human moderators should be at the center of the development of AI content moderation tools, both as co-creators (as they have expertise in content moderation!) and as main users of these tools. Human-moderation and AI-moderation should be seen as complementary, as one of the goals of using AI for this application would be to ease the work of human moderators and to lighten the emotional toll it involves.
+
+> “And so, if the ‘techno-utopian dream of magical robots’ solving all problems is not to be realized, perhaps the answer lies in building tools to make the lives of human moderators easier, instead of trying to replace them.” (p.14)
+
+### Technological challenges
+
+Designing efficient content moderation tools will not be a small task, especially if we want them not to be biased (as much as possible). Machine-learning solutions are prone to bias from the dataset they are learning from (which data is used, which is not), but also from the unconscious biases of their developers themselves. Hence, there is a strong need for a thorough ethical discussion to go on throughout the creation and implementation process of those tools. Moreover, social media platforms tend to pretend that are neutral in their moderation efforts, as if this would discharge them of any responsibility. There are huge challenges to live up to in terms of law and policy and these platforms, along with publishers and journalists, must be part of these discussions and take their responsibilities in those domains.
+
+> “However, the algorithms are only as good as the data they are trained on, and one of the fundamental problems of machine learning is that biases are the rule, not the exception.” (p.16)

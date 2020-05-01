@@ -36,3 +36,32 @@ The last social criterion discussed in this article is who should take the blame
 
 
 > “Responsibility, transparency, auditability, incorruptibility, predictability, and a tendency to not make innocent victims scream with helpless frustration: all criteria that apply to humans performing social functions; all criteria that must be considered in an algorithm intended to replace human judgment of social functions; all criteria that may not appear in a journal of machine learning considering how an algorithm scales up to more computers. This list of criteria is by no means exhaustive, but it serves as a small sample of what an increasingly computerized society should be thinking about.” (p.3)
+
+
+### Machine with Moral Status
+
+In this section, the discussion revolves around providing a definition of morality and investigating if machines could fall into those definitions or not. Then, based on the moral status of machines, humans need to respect some mutual rights and follow certain guidelines. 
+Here, the discussion is grounded on a definition for moral status by Francis Kamm and once it is ensured, it sets strong prohibition against murdering, stealing from, and doing a variety of things to the machines and to their properties without their consent. 
+
+> “**X has moral status =** because X counts morally in its own right, it is permissible/impermissible to do things to it for its own sake.” (P6)
+
+The contemporary AI does not fall into the provided definition of moral status and one may think that it relaxes any responsibility towards AI; however, the moral responsibility that we have to other beings, such as our fellow humans, corroborates the urge to follow moral constraints in our dealings with contemporary AI.
+
+> “**Sentience:** the capacity for phenomenal experience or qualia, such as the capacity to feel pain and suffer. **Sapience:** a set of capacities associated with higher intelligence, such as self awareness and being a reason-responsive agent.” (P7)
+
+
+To be more specific on verifying the moral status of the AI system, two criteria named Sentience and Sapience are proposed, where the latter is a more strict condition to be ensured. Based on the two criteria introduced here, we can come up with a strong principle of Substrate Non-discrimination. As the AI systems are artificial and may not physically own a substrate, another complementary principle is introduced as the Principle of Ontogeny Non-discrimination.  
+
+> “**Principle of Substrate Non-Discrimination:** if two beings have the same functionality and the same conscious experience, and differ only in the substrate of their implementation, then they have the same moral status.” (P8)
+
+Lastly, it is discussed that although these principles and taxonomies help us verify the moral status of an AI system, they also leave so many unforeseen ethical questions and concerns unanswered, which arise with the novel features and capabilities that AI systems introduce to our communities. 
+
+> “**Principle of Ontogeny Non-Discrimination:** if two beings have the same functionality and the same consciousness experience, and differ only in how they came into existence, then they have the same moral status.” (P8)
+
+
+
+
+
+
+
+
